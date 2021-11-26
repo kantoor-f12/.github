@@ -1,0 +1,5 @@
+{
+    "name": "F12 build release image Workflow",
+    "description": "F12 build release image workflow template.",
+    "iconName": "build-release-image-icon"
+}
